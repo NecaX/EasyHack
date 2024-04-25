@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T10:35:45.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="avV64xRpd4ltJdxgRaHV" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T10:38:58.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_Jtnrvzr4ZTG3JvaC2oZ" version="24.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1366" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry x="508" y="529.5" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-30" value="Herramientas&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Nuclei&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Nikto&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;whatweb -a 4&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;URL&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;wapiti -u&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;URL&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;w3af&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;puff (https://github.com/ignis-sec/puff)&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;xray (https://github.com/chaitin/xray)&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="714" y="489" width="336" height="140" as="geometry" />
+          <mxGeometry x="713.5" y="480" width="336" height="159" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J5_poEPGG0RTB-6arFWy-32" target="J5_poEPGG0RTB-6arFWy-34">
           <mxGeometry relative="1" as="geometry" />
@@ -69,10 +69,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-32" value="Escáneres especializados" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508" y="677.5" width="133" height="60" as="geometry" />
+          <mxGeometry x="507" y="692.5" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-34" value="Herramientas&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cmsmap [-f W] -F -f &amp;lt;URL&amp;gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;wpscan --force update -e --url&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;URL&amp;gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;joomscan --ec -u&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;URL&amp;gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;joomlavs.rb&lt;/span&gt;&amp;nbsp;(&lt;span style=&quot;background-color: initial;&quot;&gt;https://github.com/rastating/joomlavs)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="714.5" y="645" width="395.5" height="125" as="geometry" />
+          <mxGeometry x="713.5" y="660" width="395.5" height="125" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J5_poEPGG0RTB-6arFWy-36" target="J5_poEPGG0RTB-6arFWy-15">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-41" value="Descargar ficheros interesantes" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508" y="835" width="133" height="60" as="geometry" />
+          <mxGeometry x="508" y="845" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J5_poEPGG0RTB-6arFWy-43" target="J5_poEPGG0RTB-6arFWy-47">
           <mxGeometry relative="1" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry x="180" y="489" width="256" height="141" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-55" value="Webs&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/robots.txt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;/sitemap.xml&lt;/li&gt;&lt;li&gt;/crossdomain.xml&lt;/li&gt;&lt;li&gt;/&lt;span style=&quot;background-color: initial;&quot;&gt;clientaccesspolicy.xml&lt;/span&gt;&lt;/li&gt;&lt;li&gt;/.well-known/&lt;/li&gt;&lt;li&gt;Comprobar comentarios&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="713.5" y="790" width="266.5" height="150" as="geometry" />
+          <mxGeometry x="713.5" y="800" width="266.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J5_poEPGG0RTB-6arFWy-57" target="J5_poEPGG0RTB-6arFWy-59">
           <mxGeometry relative="1" as="geometry" />
@@ -127,10 +127,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-57" value="Comprobar Webdav" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="514" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="514.5" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-59" value="Herramientas&lt;hr&gt;&lt;ul&gt;&lt;li&gt;davtest [-auth user:pass] -move -sndbd auto -url &amp;lt;URL&amp;gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="713.5" y="960" width="436.5" height="80" as="geometry" />
+          <mxGeometry x="713.5" y="970" width="436.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-61" value="Herramientas&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Comprobar links rotos en una web&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://github.com/stevenvachon/broken-link-checker&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Descubrir parámetros ocultos&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;https://github.com/s0md3v/Arjun&lt;br&gt;&lt;/li&gt;&lt;li&gt;https://github.com/PortSwigger/param-miner/blob/master/resources/params&lt;br&gt;&lt;/li&gt;&lt;li&gt;https://wordlists.assetnote.io/&amp;nbsp;parameters_top_1m&lt;br&gt;&lt;/li&gt;&lt;li&gt;https://gist.github.com/nullenc0de/9cb36260207924f8e1787279a05eb773&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Check JS vulnerable libraries&lt;/li&gt;&lt;ul&gt;&lt;li&gt;https://github.com/callforpapers-source/jshole&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="714.5" y="1420" width="616" height="200" as="geometry" />
@@ -145,7 +145,7 @@
           <mxGeometry x="513.5" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-64" value="Herramientas&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;testssl.sh&amp;nbsp;&lt;/span&gt;&amp;nbsp;(https://github.com/drwetter/testssl.sh)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="714.5" y="1070" width="405.5" height="80" as="geometry" />
+          <mxGeometry x="713.5" y="1070" width="405.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J5_poEPGG0RTB-6arFWy-66" target="J5_poEPGG0RTB-6arFWy-68">
           <mxGeometry relative="1" as="geometry" />
@@ -154,13 +154,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-66" value="Spidering/fuzzing" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="514.5" y="1225" width="120" height="60" as="geometry" />
+          <mxGeometry x="514.5" y="1223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J5_poEPGG0RTB-6arFWy-68" target="J5_poEPGG0RTB-6arFWy-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-68" value="Herramientas&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;gospider&lt;/span&gt;&lt;/li&gt;&lt;li&gt;dirhunt&lt;/li&gt;&lt;li&gt;gau&lt;/li&gt;&lt;li&gt;ParamSpider&lt;/li&gt;&lt;li&gt;goLinkFinder&lt;/li&gt;&lt;li&gt;JSFScan&lt;/li&gt;&lt;li&gt;Katana&lt;/li&gt;&lt;li&gt;ffuf&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="713.5" y="1170" width="226.5" height="170" as="geometry" />
+          <mxGeometry x="713.5" y="1169" width="226.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="J5_poEPGG0RTB-6arFWy-70" value="Diccionarios&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;https://github.com/carlospolop/Auto_Wordlists/blob/main/wordlists/bf_directories.txt&lt;/li&gt;&lt;li&gt;Dirsearch included dictionary&lt;/li&gt;&lt;li&gt;http://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10&lt;/li&gt;&lt;li&gt;Assetnote wordlists&lt;/li&gt;&lt;li&gt;https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-- Content&lt;/li&gt;&lt;li&gt;raft-large-directories-lowercase.txt&lt;/li&gt;&lt;li&gt;directory-list-2.3-medium.txt&lt;/li&gt;&lt;li&gt;RobotsDisallowed/top10000.txt&lt;/li&gt;&lt;li&gt;https://github.com/random-robbie/bruteforce-lists&lt;/li&gt;&lt;li&gt;https://github.com/google/fuzzing/tree/master/dictionaries&lt;/li&gt;&lt;li&gt;https://github.com/six2dez/OneListForAll&lt;/li&gt;&lt;li&gt;https://github.com/random-robbie/bruteforce-lists&lt;/li&gt;&lt;li&gt;https://github.com/ayoubfathi/leaky-paths&lt;/li&gt;&lt;li&gt;/usr/share/wordlists/dirb/common.txt&lt;/li&gt;&lt;li&gt;/usr/share/wordlists/dirb/big.txt&lt;/li&gt;&lt;li&gt;/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1220" y="1115" width="600" height="280" as="geometry" />
